@@ -1,0 +1,2267 @@
+Launched worker PID 3829 at simulated time 0 s, 250000000 ns.
+OSS PID: 3828 | SysClock: 0 s, 250000000 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3829    0         250000000 0            
+1      0         0       0         0         0            
+2      0         0       0         0         0            
+3      0         0       0         0         0            
+4      0         0       0         0         0            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 0 PID 3829 at time 0:250000000
+OSS: Received message from worker at index 0 PID 3829 at time 0:250000000
+OSS PID: 3828 | SysClock: 0 s, 500000000 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3829    0         250000000 1            
+1      0         0       0         0         0            
+2      0         0       0         0         0            
+3      0         0       0         0         0            
+4      0         0       0         0         0            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+Launched worker PID 3830 at simulated time 0 s, 500000000 ns.
+OSS PID: 3828 | SysClock: 0 s, 500000000 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3829    0         250000000 1            
+1      1         3830    0         500000000 0            
+2      0         0       0         0         0            
+3      0         0       0         0         0            
+4      0         0       0         0         0            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 1 PID 3830 at time 0:500000000
+OSS: Received message from worker at index 1 PID 3830 at time 0:500000000
+Launched worker PID 3831 at simulated time 0 s, 625000000 ns.
+OSS PID: 3828 | SysClock: 0 s, 625000000 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3829    0         250000000 1            
+1      1         3830    0         500000000 1            
+2      1         3831    0         625000000 0            
+3      0         0       0         0         0            
+4      0         0       0         0         0            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 2 PID 3831 at time 0:625000000
+OSS: Received message from worker at index 2 PID 3831 at time 0:625000000
+OSS: Sending message to worker at index 0 PID 3829 at time 0:708333333
+OSS: Received message from worker at index 0 PID 3829 at time 0:708333333
+Launched worker PID 3832 at simulated time 0 s, 791666666 ns.
+OSS PID: 3828 | SysClock: 0 s, 791666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3829    0         250000000 2            
+1      1         3830    0         500000000 1            
+2      1         3831    0         625000000 1            
+3      1         3832    0         791666666 0            
+4      0         0       0         0         0            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 1 PID 3830 at time 0:791666666
+OSS: Received message from worker at index 1 PID 3830 at time 0:791666666
+OSS: Sending message to worker at index 2 PID 3831 at time 0:854166666
+OSS: Received message from worker at index 2 PID 3831 at time 0:854166666
+Launched worker PID 3833 at simulated time 0 s, 916666666 ns.
+OSS PID: 3828 | SysClock: 0 s, 916666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3829    0         250000000 2            
+1      1         3830    0         500000000 2            
+2      1         3831    0         625000000 2            
+3      1         3832    0         791666666 0            
+4      1         3833    0         916666666 0            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 3 PID 3832 at time 0:916666666
+OSS: Received message from worker at index 3 PID 3832 at time 0:916666666
+OSS: Sending message to worker at index 4 PID 3833 at time 0:966666666
+OSS: Received message from worker at index 4 PID 3833 at time 0:966666666
+OSS PID: 3828 | SysClock: 1 s, 16666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3829    0         250000000 2            
+1      1         3830    0         500000000 2            
+2      1         3831    0         625000000 2            
+3      1         3832    0         791666666 1            
+4      1         3833    0         916666666 1            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 0 PID 3829 at time 1:16666666
+OSS: Received message from worker at index 0 PID 3829 at time 1:16666666
+OSS: Sending message to worker at index 1 PID 3830 at time 1:66666666
+OSS: Received message from worker at index 1 PID 3830 at time 1:66666666
+OSS: Sending message to worker at index 2 PID 3831 at time 1:116666666
+OSS: Received message from worker at index 2 PID 3831 at time 1:116666666
+OSS: Sending message to worker at index 3 PID 3832 at time 1:166666666
+OSS: Received message from worker at index 3 PID 3832 at time 1:166666666
+OSS: Sending message to worker at index 4 PID 3833 at time 1:216666666
+OSS: Received message from worker at index 4 PID 3833 at time 1:216666666
+OSS: Sending message to worker at index 0 PID 3829 at time 1:266666666
+OSS: Received message from worker at index 0 PID 3829 at time 1:266666666
+OSS: Sending message to worker at index 1 PID 3830 at time 1:316666666
+OSS: Received message from worker at index 1 PID 3830 at time 1:316666666
+OSS: Sending message to worker at index 2 PID 3831 at time 1:366666666
+OSS: Received message from worker at index 2 PID 3831 at time 1:366666666
+OSS: Sending message to worker at index 3 PID 3832 at time 1:416666666
+OSS: Received message from worker at index 3 PID 3832 at time 1:416666666
+OSS: Sending message to worker at index 4 PID 3833 at time 1:466666666
+OSS: Received message from worker at index 4 PID 3833 at time 1:466666666
+OSS PID: 3828 | SysClock: 1 s, 516666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3829    0         250000000 4            
+1      1         3830    0         500000000 4            
+2      1         3831    0         625000000 4            
+3      1         3832    0         791666666 3            
+4      1         3833    0         916666666 3            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 0 PID 3829 at time 1:516666666
+OSS: Received message from worker at index 0 PID 3829 at time 1:516666666
+OSS: Sending message to worker at index 1 PID 3830 at time 1:566666666
+OSS: Received message from worker at index 1 PID 3830 at time 1:566666666
+OSS: Sending message to worker at index 2 PID 3831 at time 1:616666666
+OSS: Received message from worker at index 2 PID 3831 at time 1:616666666
+OSS: Sending message to worker at index 3 PID 3832 at time 1:666666666
+OSS: Received message from worker at index 3 PID 3832 at time 1:666666666
+OSS: Sending message to worker at index 4 PID 3833 at time 1:716666666
+OSS: Received message from worker at index 4 PID 3833 at time 1:716666666
+OSS: Sending message to worker at index 0 PID 3829 at time 1:766666666
+OSS: Received message from worker at index 0 PID 3829 at time 1:766666666
+OSS: Sending message to worker at index 1 PID 3830 at time 1:816666666
+OSS: Received message from worker at index 1 PID 3830 at time 1:816666666
+OSS: Sending message to worker at index 2 PID 3831 at time 1:866666666
+OSS: Received message from worker at index 2 PID 3831 at time 1:866666666
+OSS: Sending message to worker at index 3 PID 3832 at time 1:916666666
+OSS: Received message from worker at index 3 PID 3832 at time 1:916666666
+OSS: Sending message to worker at index 4 PID 3833 at time 1:966666666
+OSS: Received message from worker at index 4 PID 3833 at time 1:966666666
+OSS PID: 3828 | SysClock: 2 s, 16666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3829    0         250000000 6            
+1      1         3830    0         500000000 6            
+2      1         3831    0         625000000 6            
+3      1         3832    0         791666666 5            
+4      1         3833    0         916666666 5            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 0 PID 3829 at time 2:16666666
+OSS: Received message from worker at index 0 PID 3829 at time 2:16666666
+OSS: Sending message to worker at index 1 PID 3830 at time 2:66666666
+OSS: Received message from worker at index 1 PID 3830 at time 2:66666666
+OSS: Sending message to worker at index 2 PID 3831 at time 2:116666666
+OSS: Received message from worker at index 2 PID 3831 at time 2:116666666
+OSS: Sending message to worker at index 3 PID 3832 at time 2:166666666
+OSS: Received message from worker at index 3 PID 3832 at time 2:166666666
+OSS: Sending message to worker at index 4 PID 3833 at time 2:216666666
+OSS: Received message from worker at index 4 PID 3833 at time 2:216666666
+OSS: Sending message to worker at index 0 PID 3829 at time 2:266666666
+OSS: Received message from worker at index 0 PID 3829 at time 2:266666666
+OSS: Sending message to worker at index 1 PID 3830 at time 2:316666666
+OSS: Received message from worker at index 1 PID 3830 at time 2:316666666
+OSS: Sending message to worker at index 2 PID 3831 at time 2:366666666
+OSS: Received message from worker at index 2 PID 3831 at time 2:366666666
+OSS: Sending message to worker at index 3 PID 3832 at time 2:416666666
+OSS: Received message from worker at index 3 PID 3832 at time 2:416666666
+OSS: Sending message to worker at index 4 PID 3833 at time 2:466666666
+OSS: Received message from worker at index 4 PID 3833 at time 2:466666666
+OSS PID: 3828 | SysClock: 2 s, 516666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3829    0         250000000 8            
+1      1         3830    0         500000000 8            
+2      1         3831    0         625000000 8            
+3      1         3832    0         791666666 7            
+4      1         3833    0         916666666 7            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 0 PID 3829 at time 2:516666666
+OSS: Received message from worker at index 0 PID 3829 at time 2:516666666
+OSS: Sending message to worker at index 1 PID 3830 at time 2:566666666
+OSS: Received message from worker at index 1 PID 3830 at time 2:566666666
+OSS: Sending message to worker at index 2 PID 3831 at time 2:616666666
+OSS: Received message from worker at index 2 PID 3831 at time 2:616666666
+OSS: Sending message to worker at index 3 PID 3832 at time 2:666666666
+OSS: Received message from worker at index 3 PID 3832 at time 2:666666666
+OSS: Sending message to worker at index 4 PID 3833 at time 2:716666666
+OSS: Received message from worker at index 4 PID 3833 at time 2:716666666
+OSS: Sending message to worker at index 0 PID 3829 at time 2:766666666
+OSS: Received message from worker at index 0 PID 3829 at time 2:766666666
+OSS: Sending message to worker at index 1 PID 3830 at time 2:816666666
+OSS: Received message from worker at index 1 PID 3830 at time 2:816666666
+OSS: Sending message to worker at index 2 PID 3831 at time 2:866666666
+OSS: Received message from worker at index 2 PID 3831 at time 2:866666666
+OSS: Sending message to worker at index 3 PID 3832 at time 2:916666666
+OSS: Received message from worker at index 3 PID 3832 at time 2:916666666
+OSS: Sending message to worker at index 4 PID 3833 at time 2:966666666
+OSS: Received message from worker at index 4 PID 3833 at time 2:966666666
+OSS PID: 3828 | SysClock: 3 s, 16666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3829    0         250000000 10           
+1      1         3830    0         500000000 10           
+2      1         3831    0         625000000 10           
+3      1         3832    0         791666666 9            
+4      1         3833    0         916666666 9            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 0 PID 3829 at time 3:16666666
+OSS: Received message from worker at index 0 PID 3829 at time 3:16666666
+OSS: Sending message to worker at index 1 PID 3830 at time 3:66666666
+OSS: Received message from worker at index 1 PID 3830 at time 3:66666666
+OSS: Sending message to worker at index 2 PID 3831 at time 3:116666666
+OSS: Received message from worker at index 2 PID 3831 at time 3:116666666
+OSS: Worker at index 2 PID 3831 is planning to terminate.
+Launched worker PID 3836 at simulated time 3 s, 179166666 ns.
+OSS PID: 3828 | SysClock: 3 s, 179166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3829    0         250000000 11           
+1      1         3830    0         500000000 11           
+2      1         3836    3         179166666 0            
+3      1         3832    0         791666666 9            
+4      1         3833    0         916666666 9            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 3 PID 3832 at time 3:179166666
+OSS: Received message from worker at index 3 PID 3832 at time 3:179166666
+OSS: Sending message to worker at index 4 PID 3833 at time 3:229166666
+OSS: Received message from worker at index 4 PID 3833 at time 3:229166666
+OSS: Worker at index 4 PID 3833 is planning to terminate.
+Launched worker PID 3837 at simulated time 3 s, 291666666 ns.
+OSS PID: 3828 | SysClock: 3 s, 291666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3829    0         250000000 11           
+1      1         3830    0         500000000 11           
+2      1         3836    3         179166666 0            
+3      1         3832    0         791666666 10           
+4      1         3837    3         291666666 0            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 0 PID 3829 at time 3:291666666
+OSS: Received message from worker at index 0 PID 3829 at time 3:291666666
+OSS: Worker at index 0 PID 3829 is planning to terminate.
+OSS: Sending message to worker at index 1 PID 3830 at time 3:354166666
+OSS: Received message from worker at index 1 PID 3830 at time 3:354166666
+Launched worker PID 3838 at simulated time 3 s, 416666666 ns.
+OSS PID: 3828 | SysClock: 3 s, 416666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 0            
+1      1         3830    0         500000000 12           
+2      1         3836    3         179166666 0            
+3      1         3832    0         791666666 10           
+4      1         3837    3         291666666 0            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 2 PID 3836 at time 3:416666666
+OSS: Received message from worker at index 2 PID 3836 at time 3:416666666
+OSS: Sending message to worker at index 3 PID 3832 at time 3:466666666
+OSS: Received message from worker at index 3 PID 3832 at time 3:466666666
+OSS PID: 3828 | SysClock: 3 s, 516666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 0            
+1      1         3830    0         500000000 12           
+2      1         3836    3         179166666 1            
+3      1         3832    0         791666666 11           
+4      1         3837    3         291666666 0            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3837 at time 3:516666666
+OSS: Received message from worker at index 4 PID 3837 at time 3:516666666
+OSS: Sending message to worker at index 0 PID 3838 at time 3:566666666
+OSS: Received message from worker at index 0 PID 3838 at time 3:566666666
+OSS: Sending message to worker at index 1 PID 3830 at time 3:616666666
+OSS: Received message from worker at index 1 PID 3830 at time 3:616666666
+OSS: Sending message to worker at index 2 PID 3836 at time 3:666666666
+OSS: Received message from worker at index 2 PID 3836 at time 3:666666666
+OSS: Sending message to worker at index 3 PID 3832 at time 3:716666666
+OSS: Received message from worker at index 3 PID 3832 at time 3:716666666
+OSS: Sending message to worker at index 4 PID 3837 at time 3:766666666
+OSS: Received message from worker at index 4 PID 3837 at time 3:766666666
+OSS: Sending message to worker at index 0 PID 3838 at time 3:816666666
+OSS: Received message from worker at index 0 PID 3838 at time 3:816666666
+OSS: Sending message to worker at index 1 PID 3830 at time 3:866666666
+OSS: Received message from worker at index 1 PID 3830 at time 3:866666666
+OSS: Sending message to worker at index 2 PID 3836 at time 3:916666666
+OSS: Received message from worker at index 2 PID 3836 at time 3:916666666
+OSS: Sending message to worker at index 3 PID 3832 at time 3:966666666
+OSS: Received message from worker at index 3 PID 3832 at time 3:966666666
+OSS PID: 3828 | SysClock: 4 s, 16666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 2            
+1      1         3830    0         500000000 14           
+2      1         3836    3         179166666 3            
+3      1         3832    0         791666666 13           
+4      1         3837    3         291666666 2            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3837 at time 4:16666666
+OSS: Received message from worker at index 4 PID 3837 at time 4:16666666
+OSS: Sending message to worker at index 0 PID 3838 at time 4:66666666
+OSS: Received message from worker at index 0 PID 3838 at time 4:66666666
+OSS: Sending message to worker at index 1 PID 3830 at time 4:116666666
+OSS: Received message from worker at index 1 PID 3830 at time 4:116666666
+OSS: Sending message to worker at index 2 PID 3836 at time 4:166666666
+OSS: Received message from worker at index 2 PID 3836 at time 4:166666666
+OSS: Sending message to worker at index 3 PID 3832 at time 4:216666666
+OSS: Received message from worker at index 3 PID 3832 at time 4:216666666
+OSS: Sending message to worker at index 4 PID 3837 at time 4:266666666
+OSS: Received message from worker at index 4 PID 3837 at time 4:266666666
+OSS: Sending message to worker at index 0 PID 3838 at time 4:316666666
+OSS: Received message from worker at index 0 PID 3838 at time 4:316666666
+OSS: Sending message to worker at index 1 PID 3830 at time 4:366666666
+OSS: Received message from worker at index 1 PID 3830 at time 4:366666666
+OSS: Worker at index 1 PID 3830 is planning to terminate.
+Launched worker PID 3839 at simulated time 4 s, 429166666 ns.
+OSS PID: 3828 | SysClock: 4 s, 429166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 4            
+1      1         3839    4         429166666 0            
+2      1         3836    3         179166666 4            
+3      1         3832    0         791666666 14           
+4      1         3837    3         291666666 4            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 2 PID 3836 at time 4:429166666
+OSS: Received message from worker at index 2 PID 3836 at time 4:429166666
+OSS: Sending message to worker at index 3 PID 3832 at time 4:479166666
+OSS: Received message from worker at index 3 PID 3832 at time 4:479166666
+OSS PID: 3828 | SysClock: 4 s, 529166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 4            
+1      1         3839    4         429166666 0            
+2      1         3836    3         179166666 5            
+3      1         3832    0         791666666 15           
+4      1         3837    3         291666666 4            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3837 at time 4:529166666
+OSS: Received message from worker at index 4 PID 3837 at time 4:529166666
+OSS: Sending message to worker at index 0 PID 3838 at time 4:579166666
+OSS: Received message from worker at index 0 PID 3838 at time 4:579166666
+OSS: Sending message to worker at index 1 PID 3839 at time 4:629166666
+OSS: Received message from worker at index 1 PID 3839 at time 4:629166666
+OSS: Sending message to worker at index 2 PID 3836 at time 4:679166666
+OSS: Received message from worker at index 2 PID 3836 at time 4:679166666
+OSS: Sending message to worker at index 3 PID 3832 at time 4:729166666
+OSS: Received message from worker at index 3 PID 3832 at time 4:729166666
+OSS: Sending message to worker at index 4 PID 3837 at time 4:779166666
+OSS: Received message from worker at index 4 PID 3837 at time 4:779166666
+OSS: Sending message to worker at index 0 PID 3838 at time 4:829166666
+OSS: Received message from worker at index 0 PID 3838 at time 4:829166666
+OSS: Sending message to worker at index 1 PID 3839 at time 4:879166666
+OSS: Received message from worker at index 1 PID 3839 at time 4:879166666
+OSS: Sending message to worker at index 2 PID 3836 at time 4:929166666
+OSS: Received message from worker at index 2 PID 3836 at time 4:929166666
+OSS: Sending message to worker at index 3 PID 3832 at time 4:979166666
+OSS: Received message from worker at index 3 PID 3832 at time 4:979166666
+OSS PID: 3828 | SysClock: 5 s, 29166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 6            
+1      1         3839    4         429166666 2            
+2      1         3836    3         179166666 7            
+3      1         3832    0         791666666 17           
+4      1         3837    3         291666666 6            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3837 at time 5:29166666
+OSS: Received message from worker at index 4 PID 3837 at time 5:29166666
+OSS: Sending message to worker at index 0 PID 3838 at time 5:79166666
+OSS: Received message from worker at index 0 PID 3838 at time 5:79166666
+OSS: Sending message to worker at index 1 PID 3839 at time 5:129166666
+OSS: Received message from worker at index 1 PID 3839 at time 5:129166666
+OSS: Sending message to worker at index 2 PID 3836 at time 5:179166666
+OSS: Received message from worker at index 2 PID 3836 at time 5:179166666
+OSS: Sending message to worker at index 3 PID 3832 at time 5:229166666
+OSS: Received message from worker at index 3 PID 3832 at time 5:229166666
+OSS: Sending message to worker at index 4 PID 3837 at time 5:279166666
+OSS: Received message from worker at index 4 PID 3837 at time 5:279166666
+OSS: Sending message to worker at index 0 PID 3838 at time 5:329166666
+OSS: Received message from worker at index 0 PID 3838 at time 5:329166666
+OSS: Sending message to worker at index 1 PID 3839 at time 5:379166666
+OSS: Received message from worker at index 1 PID 3839 at time 5:379166666
+OSS: Sending message to worker at index 2 PID 3836 at time 5:429166666
+OSS: Received message from worker at index 2 PID 3836 at time 5:429166666
+OSS: Sending message to worker at index 3 PID 3832 at time 5:479166666
+OSS: Received message from worker at index 3 PID 3832 at time 5:479166666
+OSS PID: 3828 | SysClock: 5 s, 529166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 8            
+1      1         3839    4         429166666 4            
+2      1         3836    3         179166666 9            
+3      1         3832    0         791666666 19           
+4      1         3837    3         291666666 8            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3837 at time 5:529166666
+OSS: Received message from worker at index 4 PID 3837 at time 5:529166666
+OSS: Sending message to worker at index 0 PID 3838 at time 5:579166666
+OSS: Received message from worker at index 0 PID 3838 at time 5:579166666
+OSS: Sending message to worker at index 1 PID 3839 at time 5:629166666
+OSS: Received message from worker at index 1 PID 3839 at time 5:629166666
+OSS: Sending message to worker at index 2 PID 3836 at time 5:679166666
+OSS: Received message from worker at index 2 PID 3836 at time 5:679166666
+OSS: Sending message to worker at index 3 PID 3832 at time 5:729166666
+OSS: Received message from worker at index 3 PID 3832 at time 5:729166666
+OSS: Worker at index 3 PID 3832 is planning to terminate.
+Launched worker PID 3842 at simulated time 5 s, 791666666 ns.
+OSS PID: 3828 | SysClock: 5 s, 791666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 9            
+1      1         3839    4         429166666 5            
+2      1         3836    3         179166666 10           
+3      1         3842    5         791666666 0            
+4      1         3837    3         291666666 9            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3837 at time 5:791666666
+OSS: Received message from worker at index 4 PID 3837 at time 5:791666666
+OSS: Sending message to worker at index 0 PID 3838 at time 5:841666666
+OSS: Received message from worker at index 0 PID 3838 at time 5:841666666
+OSS: Sending message to worker at index 1 PID 3839 at time 5:891666666
+OSS: Received message from worker at index 1 PID 3839 at time 5:891666666
+OSS: Sending message to worker at index 2 PID 3836 at time 5:941666666
+OSS: Received message from worker at index 2 PID 3836 at time 5:941666666
+OSS: Sending message to worker at index 3 PID 3842 at time 5:991666666
+OSS: Received message from worker at index 3 PID 3842 at time 5:991666666
+OSS PID: 3828 | SysClock: 6 s, 41666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 10           
+1      1         3839    4         429166666 6            
+2      1         3836    3         179166666 11           
+3      1         3842    5         791666666 1            
+4      1         3837    3         291666666 10           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3837 at time 6:41666666
+OSS: Received message from worker at index 4 PID 3837 at time 6:41666666
+OSS: Sending message to worker at index 0 PID 3838 at time 6:91666666
+OSS: Received message from worker at index 0 PID 3838 at time 6:91666666
+OSS: Sending message to worker at index 1 PID 3839 at time 6:141666666
+OSS: Received message from worker at index 1 PID 3839 at time 6:141666666
+OSS: Sending message to worker at index 2 PID 3836 at time 6:191666666
+OSS: Received message from worker at index 2 PID 3836 at time 6:191666666
+OSS: Sending message to worker at index 3 PID 3842 at time 6:241666666
+OSS: Received message from worker at index 3 PID 3842 at time 6:241666666
+OSS: Sending message to worker at index 4 PID 3837 at time 6:291666666
+OSS: Received message from worker at index 4 PID 3837 at time 6:291666666
+OSS: Sending message to worker at index 0 PID 3838 at time 6:341666666
+OSS: Received message from worker at index 0 PID 3838 at time 6:341666666
+OSS: Sending message to worker at index 1 PID 3839 at time 6:391666666
+OSS: Received message from worker at index 1 PID 3839 at time 6:391666666
+OSS: Sending message to worker at index 2 PID 3836 at time 6:441666666
+OSS: Received message from worker at index 2 PID 3836 at time 6:441666666
+OSS: Sending message to worker at index 3 PID 3842 at time 6:491666666
+OSS: Received message from worker at index 3 PID 3842 at time 6:491666666
+OSS PID: 3828 | SysClock: 6 s, 541666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 12           
+1      1         3839    4         429166666 8            
+2      1         3836    3         179166666 13           
+3      1         3842    5         791666666 3            
+4      1         3837    3         291666666 12           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3837 at time 6:541666666
+OSS: Received message from worker at index 4 PID 3837 at time 6:541666666
+OSS: Sending message to worker at index 0 PID 3838 at time 6:591666666
+OSS: Received message from worker at index 0 PID 3838 at time 6:591666666
+OSS: Sending message to worker at index 1 PID 3839 at time 6:641666666
+OSS: Received message from worker at index 1 PID 3839 at time 6:641666666
+OSS: Sending message to worker at index 2 PID 3836 at time 6:691666666
+OSS: Received message from worker at index 2 PID 3836 at time 6:691666666
+OSS: Worker at index 2 PID 3836 is planning to terminate.
+Launched worker PID 3845 at simulated time 6 s, 754166666 ns.
+OSS PID: 3828 | SysClock: 6 s, 754166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 13           
+1      1         3839    4         429166666 9            
+2      1         3845    6         754166666 0            
+3      1         3842    5         791666666 3            
+4      1         3837    3         291666666 13           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 3 PID 3842 at time 6:754166666
+OSS: Received message from worker at index 3 PID 3842 at time 6:754166666
+OSS: Sending message to worker at index 4 PID 3837 at time 6:804166666
+OSS: Received message from worker at index 4 PID 3837 at time 6:804166666
+OSS: Sending message to worker at index 0 PID 3838 at time 6:854166666
+OSS: Received message from worker at index 0 PID 3838 at time 6:854166666
+OSS: Sending message to worker at index 1 PID 3839 at time 6:904166666
+OSS: Received message from worker at index 1 PID 3839 at time 6:904166666
+OSS: Sending message to worker at index 2 PID 3845 at time 6:954166666
+OSS: Received message from worker at index 2 PID 3845 at time 6:954166666
+OSS: Sending message to worker at index 3 PID 3842 at time 7:4166666
+OSS: Received message from worker at index 3 PID 3842 at time 7:4166666
+OSS PID: 3828 | SysClock: 7 s, 54166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 14           
+1      1         3839    4         429166666 10           
+2      1         3845    6         754166666 1            
+3      1         3842    5         791666666 5            
+4      1         3837    3         291666666 14           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3837 at time 7:54166666
+OSS: Received message from worker at index 4 PID 3837 at time 7:54166666
+OSS: Sending message to worker at index 0 PID 3838 at time 7:104166666
+OSS: Received message from worker at index 0 PID 3838 at time 7:104166666
+OSS: Sending message to worker at index 1 PID 3839 at time 7:154166666
+OSS: Received message from worker at index 1 PID 3839 at time 7:154166666
+OSS: Sending message to worker at index 2 PID 3845 at time 7:204166666
+OSS: Received message from worker at index 2 PID 3845 at time 7:204166666
+OSS: Sending message to worker at index 3 PID 3842 at time 7:254166666
+OSS: Received message from worker at index 3 PID 3842 at time 7:254166666
+OSS: Sending message to worker at index 4 PID 3837 at time 7:304166666
+OSS: Received message from worker at index 4 PID 3837 at time 7:304166666
+OSS: Sending message to worker at index 0 PID 3838 at time 7:354166666
+OSS: Received message from worker at index 0 PID 3838 at time 7:354166666
+OSS: Sending message to worker at index 1 PID 3839 at time 7:404166666
+OSS: Received message from worker at index 1 PID 3839 at time 7:404166666
+OSS: Sending message to worker at index 2 PID 3845 at time 7:454166666
+OSS: Received message from worker at index 2 PID 3845 at time 7:454166666
+OSS: Sending message to worker at index 3 PID 3842 at time 7:504166666
+OSS: Received message from worker at index 3 PID 3842 at time 7:504166666
+OSS PID: 3828 | SysClock: 7 s, 554166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 16           
+1      1         3839    4         429166666 12           
+2      1         3845    6         754166666 3            
+3      1         3842    5         791666666 7            
+4      1         3837    3         291666666 16           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3837 at time 7:554166666
+OSS: Received message from worker at index 4 PID 3837 at time 7:554166666
+OSS: Sending message to worker at index 0 PID 3838 at time 7:604166666
+OSS: Received message from worker at index 0 PID 3838 at time 7:604166666
+OSS: Sending message to worker at index 1 PID 3839 at time 7:654166666
+OSS: Received message from worker at index 1 PID 3839 at time 7:654166666
+OSS: Sending message to worker at index 2 PID 3845 at time 7:704166666
+OSS: Received message from worker at index 2 PID 3845 at time 7:704166666
+OSS: Sending message to worker at index 3 PID 3842 at time 7:754166666
+OSS: Received message from worker at index 3 PID 3842 at time 7:754166666
+OSS: Sending message to worker at index 4 PID 3837 at time 7:804166666
+OSS: Received message from worker at index 4 PID 3837 at time 7:804166666
+OSS: Sending message to worker at index 0 PID 3838 at time 7:854166666
+OSS: Received message from worker at index 0 PID 3838 at time 7:854166666
+OSS: Sending message to worker at index 1 PID 3839 at time 7:904166666
+OSS: Received message from worker at index 1 PID 3839 at time 7:904166666
+OSS: Sending message to worker at index 2 PID 3845 at time 7:954166666
+OSS: Received message from worker at index 2 PID 3845 at time 7:954166666
+OSS: Sending message to worker at index 3 PID 3842 at time 8:4166666
+OSS: Received message from worker at index 3 PID 3842 at time 8:4166666
+OSS PID: 3828 | SysClock: 8 s, 54166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 18           
+1      1         3839    4         429166666 14           
+2      1         3845    6         754166666 5            
+3      1         3842    5         791666666 9            
+4      1         3837    3         291666666 18           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3837 at time 8:54166666
+OSS: Received message from worker at index 4 PID 3837 at time 8:54166666
+OSS: Sending message to worker at index 0 PID 3838 at time 8:104166666
+OSS: Received message from worker at index 0 PID 3838 at time 8:104166666
+OSS: Sending message to worker at index 1 PID 3839 at time 8:154166666
+OSS: Received message from worker at index 1 PID 3839 at time 8:154166666
+OSS: Sending message to worker at index 2 PID 3845 at time 8:204166666
+OSS: Received message from worker at index 2 PID 3845 at time 8:204166666
+OSS: Sending message to worker at index 3 PID 3842 at time 8:254166666
+OSS: Received message from worker at index 3 PID 3842 at time 8:254166666
+OSS: Sending message to worker at index 4 PID 3837 at time 8:304166666
+OSS: Received message from worker at index 4 PID 3837 at time 8:304166666
+OSS: Sending message to worker at index 0 PID 3838 at time 8:354166666
+OSS: Received message from worker at index 0 PID 3838 at time 8:354166666
+OSS: Sending message to worker at index 1 PID 3839 at time 8:404166666
+OSS: Received message from worker at index 1 PID 3839 at time 8:404166666
+OSS: Sending message to worker at index 2 PID 3845 at time 8:454166666
+OSS: Received message from worker at index 2 PID 3845 at time 8:454166666
+OSS: Sending message to worker at index 3 PID 3842 at time 8:504166666
+OSS: Received message from worker at index 3 PID 3842 at time 8:504166666
+OSS PID: 3828 | SysClock: 8 s, 554166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 20           
+1      1         3839    4         429166666 16           
+2      1         3845    6         754166666 7            
+3      1         3842    5         791666666 11           
+4      1         3837    3         291666666 20           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3837 at time 8:554166666
+OSS: Received message from worker at index 4 PID 3837 at time 8:554166666
+OSS: Sending message to worker at index 0 PID 3838 at time 8:604166666
+OSS: Received message from worker at index 0 PID 3838 at time 8:604166666
+OSS: Sending message to worker at index 1 PID 3839 at time 8:654166666
+OSS: Received message from worker at index 1 PID 3839 at time 8:654166666
+OSS: Sending message to worker at index 2 PID 3845 at time 8:704166666
+OSS: Received message from worker at index 2 PID 3845 at time 8:704166666
+OSS: Sending message to worker at index 3 PID 3842 at time 8:754166666
+OSS: Received message from worker at index 3 PID 3842 at time 8:754166666
+OSS: Sending message to worker at index 4 PID 3837 at time 8:804166666
+OSS: Received message from worker at index 4 PID 3837 at time 8:804166666
+OSS: Sending message to worker at index 0 PID 3838 at time 8:854166666
+OSS: Received message from worker at index 0 PID 3838 at time 8:854166666
+OSS: Sending message to worker at index 1 PID 3839 at time 8:904166666
+OSS: Received message from worker at index 1 PID 3839 at time 8:904166666
+OSS: Sending message to worker at index 2 PID 3845 at time 8:954166666
+OSS: Received message from worker at index 2 PID 3845 at time 8:954166666
+OSS: Sending message to worker at index 3 PID 3842 at time 9:4166666
+OSS: Received message from worker at index 3 PID 3842 at time 9:4166666
+OSS PID: 3828 | SysClock: 9 s, 54166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 22           
+1      1         3839    4         429166666 18           
+2      1         3845    6         754166666 9            
+3      1         3842    5         791666666 13           
+4      1         3837    3         291666666 22           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3837 at time 9:54166666
+OSS: Received message from worker at index 4 PID 3837 at time 9:54166666
+OSS: Sending message to worker at index 0 PID 3838 at time 9:104166666
+OSS: Received message from worker at index 0 PID 3838 at time 9:104166666
+OSS: Sending message to worker at index 1 PID 3839 at time 9:154166666
+OSS: Received message from worker at index 1 PID 3839 at time 9:154166666
+OSS: Sending message to worker at index 2 PID 3845 at time 9:204166666
+OSS: Received message from worker at index 2 PID 3845 at time 9:204166666
+OSS: Sending message to worker at index 3 PID 3842 at time 9:254166666
+OSS: Received message from worker at index 3 PID 3842 at time 9:254166666
+OSS: Worker at index 3 PID 3842 is planning to terminate.
+Launched worker PID 3852 at simulated time 9 s, 316666666 ns.
+OSS PID: 3828 | SysClock: 9 s, 316666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 23           
+1      1         3839    4         429166666 19           
+2      1         3845    6         754166666 10           
+3      1         3852    9         316666666 0            
+4      1         3837    3         291666666 23           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3837 at time 9:316666666
+OSS: Received message from worker at index 4 PID 3837 at time 9:316666666
+OSS: Sending message to worker at index 0 PID 3838 at time 9:366666666
+OSS: Received message from worker at index 0 PID 3838 at time 9:366666666
+OSS: Sending message to worker at index 1 PID 3839 at time 9:416666666
+OSS: Received message from worker at index 1 PID 3839 at time 9:416666666
+OSS: Worker at index 1 PID 3839 is planning to terminate.
+Launched worker PID 3854 at simulated time 9 s, 479166666 ns.
+OSS PID: 3828 | SysClock: 9 s, 479166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 24           
+1      1         3854    9         479166666 0            
+2      1         3845    6         754166666 10           
+3      1         3852    9         316666666 0            
+4      1         3837    3         291666666 24           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 2 PID 3845 at time 9:479166666
+OSS: Received message from worker at index 2 PID 3845 at time 9:479166666
+OSS: Sending message to worker at index 3 PID 3852 at time 9:529166666
+OSS: Received message from worker at index 3 PID 3852 at time 9:529166666
+OSS PID: 3828 | SysClock: 9 s, 579166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 24           
+1      1         3854    9         479166666 0            
+2      1         3845    6         754166666 11           
+3      1         3852    9         316666666 1            
+4      1         3837    3         291666666 24           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3837 at time 9:579166666
+OSS: Received message from worker at index 4 PID 3837 at time 9:579166666
+OSS: Sending message to worker at index 0 PID 3838 at time 9:629166666
+OSS: Received message from worker at index 0 PID 3838 at time 9:629166666
+OSS: Sending message to worker at index 1 PID 3854 at time 9:679166666
+OSS: Received message from worker at index 1 PID 3854 at time 9:679166666
+OSS: Sending message to worker at index 2 PID 3845 at time 9:729166666
+OSS: Received message from worker at index 2 PID 3845 at time 9:729166666
+OSS: Sending message to worker at index 3 PID 3852 at time 9:779166666
+OSS: Received message from worker at index 3 PID 3852 at time 9:779166666
+OSS: Sending message to worker at index 4 PID 3837 at time 9:829166666
+OSS: Received message from worker at index 4 PID 3837 at time 9:829166666
+OSS: Sending message to worker at index 0 PID 3838 at time 9:879166666
+OSS: Received message from worker at index 0 PID 3838 at time 9:879166666
+OSS: Sending message to worker at index 1 PID 3854 at time 9:929166666
+OSS: Received message from worker at index 1 PID 3854 at time 9:929166666
+OSS: Sending message to worker at index 2 PID 3845 at time 9:979166666
+OSS: Received message from worker at index 2 PID 3845 at time 9:979166666
+OSS: Sending message to worker at index 3 PID 3852 at time 10:29166666
+OSS: Received message from worker at index 3 PID 3852 at time 10:29166666
+OSS PID: 3828 | SysClock: 10 s, 79166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 26           
+1      1         3854    9         479166666 2            
+2      1         3845    6         754166666 13           
+3      1         3852    9         316666666 3            
+4      1         3837    3         291666666 26           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3837 at time 10:79166666
+OSS: Received message from worker at index 4 PID 3837 at time 10:79166666
+OSS: Sending message to worker at index 0 PID 3838 at time 10:129166666
+OSS: Received message from worker at index 0 PID 3838 at time 10:129166666
+OSS: Sending message to worker at index 1 PID 3854 at time 10:179166666
+OSS: Received message from worker at index 1 PID 3854 at time 10:179166666
+OSS: Sending message to worker at index 2 PID 3845 at time 10:229166666
+OSS: Received message from worker at index 2 PID 3845 at time 10:229166666
+OSS: Sending message to worker at index 3 PID 3852 at time 10:279166666
+OSS: Received message from worker at index 3 PID 3852 at time 10:279166666
+OSS: Sending message to worker at index 4 PID 3837 at time 10:329166666
+OSS: Received message from worker at index 4 PID 3837 at time 10:329166666
+OSS: Sending message to worker at index 0 PID 3838 at time 10:379166666
+OSS: Received message from worker at index 0 PID 3838 at time 10:379166666
+OSS: Sending message to worker at index 1 PID 3854 at time 10:429166666
+OSS: Received message from worker at index 1 PID 3854 at time 10:429166666
+OSS: Sending message to worker at index 2 PID 3845 at time 10:479166666
+OSS: Received message from worker at index 2 PID 3845 at time 10:479166666
+OSS: Sending message to worker at index 3 PID 3852 at time 10:529166666
+OSS: Received message from worker at index 3 PID 3852 at time 10:529166666
+OSS PID: 3828 | SysClock: 10 s, 579166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 28           
+1      1         3854    9         479166666 4            
+2      1         3845    6         754166666 15           
+3      1         3852    9         316666666 5            
+4      1         3837    3         291666666 28           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3837 at time 10:579166666
+OSS: Received message from worker at index 4 PID 3837 at time 10:579166666
+OSS: Sending message to worker at index 0 PID 3838 at time 10:629166666
+OSS: Received message from worker at index 0 PID 3838 at time 10:629166666
+OSS: Sending message to worker at index 1 PID 3854 at time 10:679166666
+OSS: Received message from worker at index 1 PID 3854 at time 10:679166666
+OSS: Sending message to worker at index 2 PID 3845 at time 10:729166666
+OSS: Received message from worker at index 2 PID 3845 at time 10:729166666
+OSS: Sending message to worker at index 3 PID 3852 at time 10:779166666
+OSS: Received message from worker at index 3 PID 3852 at time 10:779166666
+OSS: Sending message to worker at index 4 PID 3837 at time 10:829166666
+OSS: Received message from worker at index 4 PID 3837 at time 10:829166666
+OSS: Worker at index 4 PID 3837 is planning to terminate.
+Launched worker PID 3856 at simulated time 10 s, 891666666 ns.
+OSS PID: 3828 | SysClock: 10 s, 891666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 29           
+1      1         3854    9         479166666 5            
+2      1         3845    6         754166666 16           
+3      1         3852    9         316666666 6            
+4      1         3856    10        891666666 0            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 0 PID 3838 at time 10:891666666
+OSS: Received message from worker at index 0 PID 3838 at time 10:891666666
+OSS: Sending message to worker at index 1 PID 3854 at time 10:941666666
+OSS: Received message from worker at index 1 PID 3854 at time 10:941666666
+OSS: Sending message to worker at index 2 PID 3845 at time 10:991666666
+OSS: Received message from worker at index 2 PID 3845 at time 10:991666666
+OSS: Sending message to worker at index 3 PID 3852 at time 11:41666666
+OSS: Received message from worker at index 3 PID 3852 at time 11:41666666
+OSS PID: 3828 | SysClock: 11 s, 91666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 30           
+1      1         3854    9         479166666 6            
+2      1         3845    6         754166666 17           
+3      1         3852    9         316666666 7            
+4      1         3856    10        891666666 0            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3856 at time 11:91666666
+OSS: Received message from worker at index 4 PID 3856 at time 11:91666666
+OSS: Sending message to worker at index 0 PID 3838 at time 11:141666666
+OSS: Received message from worker at index 0 PID 3838 at time 11:141666666
+OSS: Sending message to worker at index 1 PID 3854 at time 11:191666666
+OSS: Received message from worker at index 1 PID 3854 at time 11:191666666
+OSS: Sending message to worker at index 2 PID 3845 at time 11:241666666
+OSS: Received message from worker at index 2 PID 3845 at time 11:241666666
+OSS: Sending message to worker at index 3 PID 3852 at time 11:291666666
+OSS: Received message from worker at index 3 PID 3852 at time 11:291666666
+OSS: Sending message to worker at index 4 PID 3856 at time 11:341666666
+OSS: Received message from worker at index 4 PID 3856 at time 11:341666666
+OSS: Sending message to worker at index 0 PID 3838 at time 11:391666666
+OSS: Received message from worker at index 0 PID 3838 at time 11:391666666
+OSS: Sending message to worker at index 1 PID 3854 at time 11:441666666
+OSS: Received message from worker at index 1 PID 3854 at time 11:441666666
+OSS: Sending message to worker at index 2 PID 3845 at time 11:491666666
+OSS: Received message from worker at index 2 PID 3845 at time 11:491666666
+OSS: Worker at index 2 PID 3845 is planning to terminate.
+Launched worker PID 3857 at simulated time 11 s, 554166666 ns.
+OSS PID: 3828 | SysClock: 11 s, 554166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 32           
+1      1         3854    9         479166666 8            
+2      1         3857    11        554166666 0            
+3      1         3852    9         316666666 8            
+4      1         3856    10        891666666 2            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 3 PID 3852 at time 11:554166666
+OSS: Received message from worker at index 3 PID 3852 at time 11:554166666
+OSS PID: 3828 | SysClock: 11 s, 604166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3838    3         416666666 32           
+1      1         3854    9         479166666 8            
+2      1         3857    11        554166666 0            
+3      1         3852    9         316666666 9            
+4      1         3856    10        891666666 2            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3856 at time 11:604166666
+OSS: Received message from worker at index 4 PID 3856 at time 11:604166666
+OSS: Sending message to worker at index 0 PID 3838 at time 11:654166666
+OSS: Received message from worker at index 0 PID 3838 at time 11:654166666
+OSS: Worker at index 0 PID 3838 is planning to terminate.
+Launched worker PID 3858 at simulated time 11 s, 716666666 ns.
+OSS PID: 3828 | SysClock: 11 s, 716666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 0            
+1      1         3854    9         479166666 8            
+2      1         3857    11        554166666 0            
+3      1         3852    9         316666666 9            
+4      1         3856    10        891666666 3            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 1 PID 3854 at time 11:716666666
+OSS: Received message from worker at index 1 PID 3854 at time 11:716666666
+OSS: Sending message to worker at index 2 PID 3857 at time 11:766666666
+OSS: Received message from worker at index 2 PID 3857 at time 11:766666666
+OSS: Sending message to worker at index 3 PID 3852 at time 11:816666666
+OSS: Received message from worker at index 3 PID 3852 at time 11:816666666
+OSS: Sending message to worker at index 4 PID 3856 at time 11:866666666
+OSS: Received message from worker at index 4 PID 3856 at time 11:866666666
+OSS: Sending message to worker at index 0 PID 3858 at time 11:916666666
+OSS: Received message from worker at index 0 PID 3858 at time 11:916666666
+OSS: Sending message to worker at index 1 PID 3854 at time 11:966666666
+OSS: Received message from worker at index 1 PID 3854 at time 11:966666666
+OSS: Sending message to worker at index 2 PID 3857 at time 12:16666666
+OSS: Received message from worker at index 2 PID 3857 at time 12:16666666
+OSS: Sending message to worker at index 3 PID 3852 at time 12:66666666
+OSS: Received message from worker at index 3 PID 3852 at time 12:66666666
+OSS PID: 3828 | SysClock: 12 s, 116666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 1            
+1      1         3854    9         479166666 10           
+2      1         3857    11        554166666 2            
+3      1         3852    9         316666666 11           
+4      1         3856    10        891666666 4            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3856 at time 12:116666666
+OSS: Received message from worker at index 4 PID 3856 at time 12:116666666
+OSS: Sending message to worker at index 0 PID 3858 at time 12:166666666
+OSS: Received message from worker at index 0 PID 3858 at time 12:166666666
+OSS: Sending message to worker at index 1 PID 3854 at time 12:216666666
+OSS: Received message from worker at index 1 PID 3854 at time 12:216666666
+OSS: Sending message to worker at index 2 PID 3857 at time 12:266666666
+OSS: Received message from worker at index 2 PID 3857 at time 12:266666666
+OSS: Sending message to worker at index 3 PID 3852 at time 12:316666666
+OSS: Received message from worker at index 3 PID 3852 at time 12:316666666
+OSS: Sending message to worker at index 4 PID 3856 at time 12:366666666
+OSS: Received message from worker at index 4 PID 3856 at time 12:366666666
+OSS: Sending message to worker at index 0 PID 3858 at time 12:416666666
+OSS: Received message from worker at index 0 PID 3858 at time 12:416666666
+OSS: Sending message to worker at index 1 PID 3854 at time 12:466666666
+OSS: Received message from worker at index 1 PID 3854 at time 12:466666666
+OSS: Sending message to worker at index 2 PID 3857 at time 12:516666666
+OSS: Received message from worker at index 2 PID 3857 at time 12:516666666
+OSS: Sending message to worker at index 3 PID 3852 at time 12:566666666
+OSS: Received message from worker at index 3 PID 3852 at time 12:566666666
+OSS PID: 3828 | SysClock: 12 s, 616666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 3            
+1      1         3854    9         479166666 12           
+2      1         3857    11        554166666 4            
+3      1         3852    9         316666666 13           
+4      1         3856    10        891666666 6            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3856 at time 12:616666666
+OSS: Received message from worker at index 4 PID 3856 at time 12:616666666
+OSS: Sending message to worker at index 0 PID 3858 at time 12:666666666
+OSS: Received message from worker at index 0 PID 3858 at time 12:666666666
+OSS: Sending message to worker at index 1 PID 3854 at time 12:716666666
+OSS: Received message from worker at index 1 PID 3854 at time 12:716666666
+OSS: Sending message to worker at index 2 PID 3857 at time 12:766666666
+OSS: Received message from worker at index 2 PID 3857 at time 12:766666666
+OSS: Sending message to worker at index 3 PID 3852 at time 12:816666666
+OSS: Received message from worker at index 3 PID 3852 at time 12:816666666
+OSS: Sending message to worker at index 4 PID 3856 at time 12:866666666
+OSS: Received message from worker at index 4 PID 3856 at time 12:866666666
+OSS: Sending message to worker at index 0 PID 3858 at time 12:916666666
+OSS: Received message from worker at index 0 PID 3858 at time 12:916666666
+OSS: Sending message to worker at index 1 PID 3854 at time 12:966666666
+OSS: Received message from worker at index 1 PID 3854 at time 12:966666666
+OSS: Sending message to worker at index 2 PID 3857 at time 13:16666666
+OSS: Received message from worker at index 2 PID 3857 at time 13:16666666
+OSS: Sending message to worker at index 3 PID 3852 at time 13:66666666
+OSS: Received message from worker at index 3 PID 3852 at time 13:66666666
+OSS PID: 3828 | SysClock: 13 s, 116666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 5            
+1      1         3854    9         479166666 14           
+2      1         3857    11        554166666 6            
+3      1         3852    9         316666666 15           
+4      1         3856    10        891666666 8            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3856 at time 13:116666666
+OSS: Received message from worker at index 4 PID 3856 at time 13:116666666
+OSS: Sending message to worker at index 0 PID 3858 at time 13:166666666
+OSS: Received message from worker at index 0 PID 3858 at time 13:166666666
+OSS: Sending message to worker at index 1 PID 3854 at time 13:216666666
+OSS: Received message from worker at index 1 PID 3854 at time 13:216666666
+OSS: Sending message to worker at index 2 PID 3857 at time 13:266666666
+OSS: Received message from worker at index 2 PID 3857 at time 13:266666666
+OSS: Sending message to worker at index 3 PID 3852 at time 13:316666666
+OSS: Received message from worker at index 3 PID 3852 at time 13:316666666
+OSS: Sending message to worker at index 4 PID 3856 at time 13:366666666
+OSS: Received message from worker at index 4 PID 3856 at time 13:366666666
+OSS: Sending message to worker at index 0 PID 3858 at time 13:416666666
+OSS: Received message from worker at index 0 PID 3858 at time 13:416666666
+OSS: Sending message to worker at index 1 PID 3854 at time 13:466666666
+OSS: Received message from worker at index 1 PID 3854 at time 13:466666666
+OSS: Worker at index 1 PID 3854 is planning to terminate.
+Launched worker PID 3859 at simulated time 13 s, 529166666 ns.
+OSS PID: 3828 | SysClock: 13 s, 529166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 7            
+1      1         3859    13        529166666 0            
+2      1         3857    11        554166666 7            
+3      1         3852    9         316666666 16           
+4      1         3856    10        891666666 10           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 2 PID 3857 at time 13:529166666
+OSS: Received message from worker at index 2 PID 3857 at time 13:529166666
+OSS: Sending message to worker at index 3 PID 3852 at time 13:579166666
+OSS: Received message from worker at index 3 PID 3852 at time 13:579166666
+OSS PID: 3828 | SysClock: 13 s, 629166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 7            
+1      1         3859    13        529166666 0            
+2      1         3857    11        554166666 8            
+3      1         3852    9         316666666 17           
+4      1         3856    10        891666666 10           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3856 at time 13:629166666
+OSS: Received message from worker at index 4 PID 3856 at time 13:629166666
+OSS: Sending message to worker at index 0 PID 3858 at time 13:679166666
+OSS: Received message from worker at index 0 PID 3858 at time 13:679166666
+OSS: Sending message to worker at index 1 PID 3859 at time 13:729166666
+OSS: Received message from worker at index 1 PID 3859 at time 13:729166666
+OSS: Sending message to worker at index 2 PID 3857 at time 13:779166666
+OSS: Received message from worker at index 2 PID 3857 at time 13:779166666
+OSS: Sending message to worker at index 3 PID 3852 at time 13:829166666
+OSS: Received message from worker at index 3 PID 3852 at time 13:829166666
+OSS: Sending message to worker at index 4 PID 3856 at time 13:879166666
+OSS: Received message from worker at index 4 PID 3856 at time 13:879166666
+OSS: Sending message to worker at index 0 PID 3858 at time 13:929166666
+OSS: Received message from worker at index 0 PID 3858 at time 13:929166666
+OSS: Sending message to worker at index 1 PID 3859 at time 13:979166666
+OSS: Received message from worker at index 1 PID 3859 at time 13:979166666
+OSS: Sending message to worker at index 2 PID 3857 at time 14:29166666
+OSS: Received message from worker at index 2 PID 3857 at time 14:29166666
+OSS: Sending message to worker at index 3 PID 3852 at time 14:79166666
+OSS: Received message from worker at index 3 PID 3852 at time 14:79166666
+OSS PID: 3828 | SysClock: 14 s, 129166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 9            
+1      1         3859    13        529166666 2            
+2      1         3857    11        554166666 10           
+3      1         3852    9         316666666 19           
+4      1         3856    10        891666666 12           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3856 at time 14:129166666
+OSS: Received message from worker at index 4 PID 3856 at time 14:129166666
+OSS: Sending message to worker at index 0 PID 3858 at time 14:179166666
+OSS: Received message from worker at index 0 PID 3858 at time 14:179166666
+OSS: Sending message to worker at index 1 PID 3859 at time 14:229166666
+OSS: Received message from worker at index 1 PID 3859 at time 14:229166666
+OSS: Sending message to worker at index 2 PID 3857 at time 14:279166666
+OSS: Received message from worker at index 2 PID 3857 at time 14:279166666
+OSS: Worker at index 2 PID 3857 is planning to terminate.
+Launched worker PID 3860 at simulated time 14 s, 341666666 ns.
+OSS PID: 3828 | SysClock: 14 s, 341666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 10           
+1      1         3859    13        529166666 3            
+2      1         3860    14        341666666 0            
+3      1         3852    9         316666666 19           
+4      1         3856    10        891666666 13           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 3 PID 3852 at time 14:341666666
+OSS: Received message from worker at index 3 PID 3852 at time 14:341666666
+OSS: Sending message to worker at index 4 PID 3856 at time 14:391666666
+OSS: Received message from worker at index 4 PID 3856 at time 14:391666666
+OSS: Sending message to worker at index 0 PID 3858 at time 14:441666666
+OSS: Received message from worker at index 0 PID 3858 at time 14:441666666
+OSS: Sending message to worker at index 1 PID 3859 at time 14:491666666
+OSS: Received message from worker at index 1 PID 3859 at time 14:491666666
+OSS: Sending message to worker at index 2 PID 3860 at time 14:541666666
+OSS: Received message from worker at index 2 PID 3860 at time 14:541666666
+OSS: Sending message to worker at index 3 PID 3852 at time 14:591666666
+OSS: Received message from worker at index 3 PID 3852 at time 14:591666666
+OSS PID: 3828 | SysClock: 14 s, 641666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 11           
+1      1         3859    13        529166666 4            
+2      1         3860    14        341666666 1            
+3      1         3852    9         316666666 21           
+4      1         3856    10        891666666 14           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3856 at time 14:641666666
+OSS: Received message from worker at index 4 PID 3856 at time 14:641666666
+OSS: Sending message to worker at index 0 PID 3858 at time 14:691666666
+OSS: Received message from worker at index 0 PID 3858 at time 14:691666666
+OSS: Sending message to worker at index 1 PID 3859 at time 14:741666666
+OSS: Received message from worker at index 1 PID 3859 at time 14:741666666
+OSS: Sending message to worker at index 2 PID 3860 at time 14:791666666
+OSS: Received message from worker at index 2 PID 3860 at time 14:791666666
+OSS: Sending message to worker at index 3 PID 3852 at time 14:841666666
+OSS: Received message from worker at index 3 PID 3852 at time 14:841666666
+OSS: Sending message to worker at index 4 PID 3856 at time 14:891666666
+OSS: Received message from worker at index 4 PID 3856 at time 14:891666666
+OSS: Sending message to worker at index 0 PID 3858 at time 14:941666666
+OSS: Received message from worker at index 0 PID 3858 at time 14:941666666
+OSS: Sending message to worker at index 1 PID 3859 at time 14:991666666
+OSS: Received message from worker at index 1 PID 3859 at time 14:991666666
+OSS: Sending message to worker at index 2 PID 3860 at time 15:41666666
+OSS: Received message from worker at index 2 PID 3860 at time 15:41666666
+OSS: Sending message to worker at index 3 PID 3852 at time 15:91666666
+OSS: Received message from worker at index 3 PID 3852 at time 15:91666666
+OSS PID: 3828 | SysClock: 15 s, 141666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 13           
+1      1         3859    13        529166666 6            
+2      1         3860    14        341666666 3            
+3      1         3852    9         316666666 23           
+4      1         3856    10        891666666 16           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3856 at time 15:141666666
+OSS: Received message from worker at index 4 PID 3856 at time 15:141666666
+OSS: Sending message to worker at index 0 PID 3858 at time 15:191666666
+OSS: Received message from worker at index 0 PID 3858 at time 15:191666666
+OSS: Sending message to worker at index 1 PID 3859 at time 15:241666666
+OSS: Received message from worker at index 1 PID 3859 at time 15:241666666
+OSS: Sending message to worker at index 2 PID 3860 at time 15:291666666
+OSS: Received message from worker at index 2 PID 3860 at time 15:291666666
+OSS: Sending message to worker at index 3 PID 3852 at time 15:341666666
+OSS: Received message from worker at index 3 PID 3852 at time 15:341666666
+OSS: Sending message to worker at index 4 PID 3856 at time 15:391666666
+OSS: Received message from worker at index 4 PID 3856 at time 15:391666666
+OSS: Sending message to worker at index 0 PID 3858 at time 15:441666666
+OSS: Received message from worker at index 0 PID 3858 at time 15:441666666
+OSS: Sending message to worker at index 1 PID 3859 at time 15:491666666
+OSS: Received message from worker at index 1 PID 3859 at time 15:491666666
+OSS: Sending message to worker at index 2 PID 3860 at time 15:541666666
+OSS: Received message from worker at index 2 PID 3860 at time 15:541666666
+OSS: Sending message to worker at index 3 PID 3852 at time 15:591666666
+OSS: Received message from worker at index 3 PID 3852 at time 15:591666666
+OSS PID: 3828 | SysClock: 15 s, 641666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 15           
+1      1         3859    13        529166666 8            
+2      1         3860    14        341666666 5            
+3      1         3852    9         316666666 25           
+4      1         3856    10        891666666 18           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3856 at time 15:641666666
+OSS: Received message from worker at index 4 PID 3856 at time 15:641666666
+OSS: Sending message to worker at index 0 PID 3858 at time 15:691666666
+OSS: Received message from worker at index 0 PID 3858 at time 15:691666666
+OSS: Sending message to worker at index 1 PID 3859 at time 15:741666666
+OSS: Received message from worker at index 1 PID 3859 at time 15:741666666
+OSS: Sending message to worker at index 2 PID 3860 at time 15:791666666
+OSS: Received message from worker at index 2 PID 3860 at time 15:791666666
+OSS: Sending message to worker at index 3 PID 3852 at time 15:841666666
+OSS: Received message from worker at index 3 PID 3852 at time 15:841666666
+OSS: Sending message to worker at index 4 PID 3856 at time 15:891666666
+OSS: Received message from worker at index 4 PID 3856 at time 15:891666666
+OSS: Sending message to worker at index 0 PID 3858 at time 15:941666666
+OSS: Received message from worker at index 0 PID 3858 at time 15:941666666
+OSS: Sending message to worker at index 1 PID 3859 at time 15:991666666
+OSS: Received message from worker at index 1 PID 3859 at time 15:991666666
+OSS: Sending message to worker at index 2 PID 3860 at time 16:41666666
+OSS: Received message from worker at index 2 PID 3860 at time 16:41666666
+OSS: Sending message to worker at index 3 PID 3852 at time 16:91666666
+OSS: Received message from worker at index 3 PID 3852 at time 16:91666666
+OSS PID: 3828 | SysClock: 16 s, 141666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 17           
+1      1         3859    13        529166666 10           
+2      1         3860    14        341666666 7            
+3      1         3852    9         316666666 27           
+4      1         3856    10        891666666 20           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3856 at time 16:141666666
+OSS: Received message from worker at index 4 PID 3856 at time 16:141666666
+OSS: Sending message to worker at index 0 PID 3858 at time 16:191666666
+OSS: Received message from worker at index 0 PID 3858 at time 16:191666666
+OSS: Sending message to worker at index 1 PID 3859 at time 16:241666666
+OSS: Received message from worker at index 1 PID 3859 at time 16:241666666
+OSS: Sending message to worker at index 2 PID 3860 at time 16:291666666
+OSS: Received message from worker at index 2 PID 3860 at time 16:291666666
+OSS: Sending message to worker at index 3 PID 3852 at time 16:341666666
+OSS: Received message from worker at index 3 PID 3852 at time 16:341666666
+OSS: Worker at index 3 PID 3852 is planning to terminate.
+Launched worker PID 3861 at simulated time 16 s, 404166666 ns.
+OSS PID: 3828 | SysClock: 16 s, 404166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 18           
+1      1         3859    13        529166666 11           
+2      1         3860    14        341666666 8            
+3      1         3861    16        404166666 0            
+4      1         3856    10        891666666 21           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3856 at time 16:404166666
+OSS: Received message from worker at index 4 PID 3856 at time 16:404166666
+OSS: Sending message to worker at index 0 PID 3858 at time 16:454166666
+OSS: Received message from worker at index 0 PID 3858 at time 16:454166666
+OSS: Sending message to worker at index 1 PID 3859 at time 16:504166666
+OSS: Received message from worker at index 1 PID 3859 at time 16:504166666
+OSS: Sending message to worker at index 2 PID 3860 at time 16:554166666
+OSS: Received message from worker at index 2 PID 3860 at time 16:554166666
+OSS: Sending message to worker at index 3 PID 3861 at time 16:604166666
+OSS: Received message from worker at index 3 PID 3861 at time 16:604166666
+OSS PID: 3828 | SysClock: 16 s, 654166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 19           
+1      1         3859    13        529166666 12           
+2      1         3860    14        341666666 9            
+3      1         3861    16        404166666 1            
+4      1         3856    10        891666666 22           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3856 at time 16:654166666
+OSS: Received message from worker at index 4 PID 3856 at time 16:654166666
+OSS: Sending message to worker at index 0 PID 3858 at time 16:704166666
+OSS: Received message from worker at index 0 PID 3858 at time 16:704166666
+OSS: Sending message to worker at index 1 PID 3859 at time 16:754166666
+OSS: Received message from worker at index 1 PID 3859 at time 16:754166666
+OSS: Sending message to worker at index 2 PID 3860 at time 16:804166666
+OSS: Received message from worker at index 2 PID 3860 at time 16:804166666
+OSS: Sending message to worker at index 3 PID 3861 at time 16:854166666
+OSS: Received message from worker at index 3 PID 3861 at time 16:854166666
+OSS: Sending message to worker at index 4 PID 3856 at time 16:904166666
+OSS: Received message from worker at index 4 PID 3856 at time 16:904166666
+OSS: Sending message to worker at index 0 PID 3858 at time 16:954166666
+OSS: Received message from worker at index 0 PID 3858 at time 16:954166666
+OSS: Sending message to worker at index 1 PID 3859 at time 17:4166666
+OSS: Received message from worker at index 1 PID 3859 at time 17:4166666
+OSS: Sending message to worker at index 2 PID 3860 at time 17:54166666
+OSS: Received message from worker at index 2 PID 3860 at time 17:54166666
+OSS: Sending message to worker at index 3 PID 3861 at time 17:104166666
+OSS: Received message from worker at index 3 PID 3861 at time 17:104166666
+OSS PID: 3828 | SysClock: 17 s, 154166666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 21           
+1      1         3859    13        529166666 14           
+2      1         3860    14        341666666 11           
+3      1         3861    16        404166666 3            
+4      1         3856    10        891666666 24           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3856 at time 17:154166666
+OSS: Received message from worker at index 4 PID 3856 at time 17:154166666
+OSS: Sending message to worker at index 0 PID 3858 at time 17:204166666
+OSS: Received message from worker at index 0 PID 3858 at time 17:204166666
+OSS: Sending message to worker at index 1 PID 3859 at time 17:254166666
+OSS: Received message from worker at index 1 PID 3859 at time 17:254166666
+OSS: Sending message to worker at index 2 PID 3860 at time 17:304166666
+OSS: Received message from worker at index 2 PID 3860 at time 17:304166666
+OSS: Sending message to worker at index 3 PID 3861 at time 17:354166666
+OSS: Received message from worker at index 3 PID 3861 at time 17:354166666
+OSS: Sending message to worker at index 4 PID 3856 at time 17:404166666
+OSS: Received message from worker at index 4 PID 3856 at time 17:404166666
+OSS: Worker at index 4 PID 3856 is planning to terminate.
+Launched worker PID 3862 at simulated time 17 s, 466666666 ns.
+OSS PID: 3828 | SysClock: 17 s, 466666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 22           
+1      1         3859    13        529166666 15           
+2      1         3860    14        341666666 12           
+3      1         3861    16        404166666 4            
+4      1         3862    17        466666666 0            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 0 PID 3858 at time 17:466666666
+OSS: Received message from worker at index 0 PID 3858 at time 17:466666666
+OSS: Sending message to worker at index 1 PID 3859 at time 17:516666666
+OSS: Received message from worker at index 1 PID 3859 at time 17:516666666
+OSS: Sending message to worker at index 2 PID 3860 at time 17:566666666
+OSS: Received message from worker at index 2 PID 3860 at time 17:566666666
+OSS: Sending message to worker at index 3 PID 3861 at time 17:616666666
+OSS: Received message from worker at index 3 PID 3861 at time 17:616666666
+OSS PID: 3828 | SysClock: 17 s, 666666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 23           
+1      1         3859    13        529166666 16           
+2      1         3860    14        341666666 13           
+3      1         3861    16        404166666 5            
+4      1         3862    17        466666666 0            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3862 at time 17:666666666
+OSS: Received message from worker at index 4 PID 3862 at time 17:666666666
+OSS: Sending message to worker at index 0 PID 3858 at time 17:716666666
+OSS: Received message from worker at index 0 PID 3858 at time 17:716666666
+OSS: Sending message to worker at index 1 PID 3859 at time 17:766666666
+OSS: Received message from worker at index 1 PID 3859 at time 17:766666666
+OSS: Sending message to worker at index 2 PID 3860 at time 17:816666666
+OSS: Received message from worker at index 2 PID 3860 at time 17:816666666
+OSS: Sending message to worker at index 3 PID 3861 at time 17:866666666
+OSS: Received message from worker at index 3 PID 3861 at time 17:866666666
+OSS: Sending message to worker at index 4 PID 3862 at time 17:916666666
+OSS: Received message from worker at index 4 PID 3862 at time 17:916666666
+OSS: Sending message to worker at index 0 PID 3858 at time 17:966666666
+OSS: Received message from worker at index 0 PID 3858 at time 17:966666666
+OSS: Sending message to worker at index 1 PID 3859 at time 18:16666666
+OSS: Received message from worker at index 1 PID 3859 at time 18:16666666
+OSS: Sending message to worker at index 2 PID 3860 at time 18:66666666
+OSS: Received message from worker at index 2 PID 3860 at time 18:66666666
+OSS: Sending message to worker at index 3 PID 3861 at time 18:116666666
+OSS: Received message from worker at index 3 PID 3861 at time 18:116666666
+OSS PID: 3828 | SysClock: 18 s, 166666666 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 25           
+1      1         3859    13        529166666 18           
+2      1         3860    14        341666666 15           
+3      1         3861    16        404166666 7            
+4      1         3862    17        466666666 2            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3862 at time 18:166666666
+OSS: Received message from worker at index 4 PID 3862 at time 18:166666666
+OSS: Sending message to worker at index 0 PID 3858 at time 18:216666666
+OSS: Received message from worker at index 0 PID 3858 at time 18:216666666
+OSS: Sending message to worker at index 1 PID 3859 at time 18:266666666
+OSS: Received message from worker at index 1 PID 3859 at time 18:266666666
+OSS: Worker at index 1 PID 3859 is planning to terminate.
+OSS: Sending message to worker at index 2 PID 3860 at time 18:329166666
+OSS: Received message from worker at index 2 PID 3860 at time 18:329166666
+OSS: Sending message to worker at index 3 PID 3861 at time 18:391666666
+OSS: Received message from worker at index 3 PID 3861 at time 18:391666666
+OSS: Sending message to worker at index 4 PID 3862 at time 18:454166666
+OSS: Received message from worker at index 4 PID 3862 at time 18:454166666
+OSS: Sending message to worker at index 0 PID 3858 at time 18:516666666
+OSS: Received message from worker at index 0 PID 3858 at time 18:516666666
+OSS: Sending message to worker at index 2 PID 3860 at time 18:579166666
+OSS: Received message from worker at index 2 PID 3860 at time 18:579166666
+OSS: Worker at index 2 PID 3860 is planning to terminate.
+OSS: Sending message to worker at index 3 PID 3861 at time 18:662499999
+OSS: Received message from worker at index 3 PID 3861 at time 18:662499999
+OSS PID: 3828 | SysClock: 18 s, 745833332 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      1         3858    11        716666666 27           
+1      0         3859    13        529166666 19           
+2      0         3860    14        341666666 17           
+3      1         3861    16        404166666 9            
+4      1         3862    17        466666666 4            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3862 at time 18:745833332
+OSS: Received message from worker at index 4 PID 3862 at time 18:745833332
+OSS: Sending message to worker at index 0 PID 3858 at time 18:829166665
+OSS: Received message from worker at index 0 PID 3858 at time 18:829166665
+OSS: Worker at index 0 PID 3858 is planning to terminate.
+OSS: Sending message to worker at index 3 PID 3861 at time 18:954166665
+OSS: Received message from worker at index 3 PID 3861 at time 18:954166665
+OSS: Worker at index 3 PID 3861 is planning to terminate.
+OSS: Sending message to worker at index 4 PID 3862 at time 19:204166665
+OSS: Received message from worker at index 4 PID 3862 at time 19:204166665
+OSS PID: 3828 | SysClock: 19 s, 454166665 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      0         3858    11        716666666 28           
+1      0         3859    13        529166666 19           
+2      0         3860    14        341666666 17           
+3      0         3861    16        404166666 10           
+4      1         3862    17        466666666 6            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3862 at time 19:454166665
+OSS: Received message from worker at index 4 PID 3862 at time 19:454166665
+OSS: Sending message to worker at index 4 PID 3862 at time 19:704166665
+OSS: Received message from worker at index 4 PID 3862 at time 19:704166665
+OSS PID: 3828 | SysClock: 19 s, 954166665 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      0         3858    11        716666666 28           
+1      0         3859    13        529166666 19           
+2      0         3860    14        341666666 17           
+3      0         3861    16        404166666 10           
+4      1         3862    17        466666666 8            
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3862 at time 19:954166665
+OSS: Received message from worker at index 4 PID 3862 at time 19:954166665
+OSS: Sending message to worker at index 4 PID 3862 at time 20:204166665
+OSS: Received message from worker at index 4 PID 3862 at time 20:204166665
+OSS PID: 3828 | SysClock: 20 s, 454166665 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      0         3858    11        716666666 28           
+1      0         3859    13        529166666 19           
+2      0         3860    14        341666666 17           
+3      0         3861    16        404166666 10           
+4      1         3862    17        466666666 10           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3862 at time 20:454166665
+OSS: Received message from worker at index 4 PID 3862 at time 20:454166665
+OSS: Sending message to worker at index 4 PID 3862 at time 20:704166665
+OSS: Received message from worker at index 4 PID 3862 at time 20:704166665
+OSS PID: 3828 | SysClock: 20 s, 954166665 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      0         3858    11        716666666 28           
+1      0         3859    13        529166666 19           
+2      0         3860    14        341666666 17           
+3      0         3861    16        404166666 10           
+4      1         3862    17        466666666 12           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3862 at time 20:954166665
+OSS: Received message from worker at index 4 PID 3862 at time 20:954166665
+OSS: Sending message to worker at index 4 PID 3862 at time 21:204166665
+OSS: Received message from worker at index 4 PID 3862 at time 21:204166665
+OSS PID: 3828 | SysClock: 21 s, 454166665 ns
+Process Table:
+Entry  Occupied  PID     StartSec  StartNano  MessagesSent
+0      0         3858    11        716666666 28           
+1      0         3859    13        529166666 19           
+2      0         3860    14        341666666 17           
+3      0         3861    16        404166666 10           
+4      1         3862    17        466666666 14           
+5      0         0       0         0         0            
+6      0         0       0         0         0            
+7      0         0       0         0         0            
+8      0         0       0         0         0            
+9      0         0       0         0         0            
+10     0         0       0         0         0            
+11     0         0       0         0         0            
+12     0         0       0         0         0            
+13     0         0       0         0         0            
+14     0         0       0         0         0            
+15     0         0       0         0         0            
+16     0         0       0         0         0            
+17     0         0       0         0         0            
+18     0         0       0         0         0            
+19     0         0       0         0         0            
+
+OSS: Sending message to worker at index 4 PID 3862 at time 21:454166665
+OSS: Received message from worker at index 4 PID 3862 at time 21:454166665
+OSS: Worker at index 4 PID 3862 is planning to terminate.
+Summary: Total processes launched: 20, Total messages sent: 369
