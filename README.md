@@ -1,18 +1,18 @@
 
-# Simulated System Clock & Worker Process Coordination (aqrabawi.1)
+# Simulated System Clock & Worker Process Coordination (aqrabawi.1-main)
 
 ## Quick Start
 
 1. **Download or Clone the Project**  
    Clone the repository using:
    ```bash
-   git clone https://github.com/Jadaqrabawi/aqrabawi.1.git
+   git clone https://github.com/Jadaqrabawi/aqrabawi.1-main.git
    ```
    Or download and extract the project archive.
 
 2. **Navigate to the Project Directory**
    ```bash
-   cd aqrabawi.1
+   cd aqrabawi.1-main
    ```
 
 3. **Clean the Project (Optional)**
