@@ -127,7 +127,3 @@ make clean
 
 - The simulated clock is incremented by `250 ms` divided by the number of current active workers, ensuring that the clock progresses proportionally.
 - The log file provides detailed traceability, which can be useful for debugging or analyzing the sequence of events.
-
----
-
-This README provides a comprehensive overview and guide to compile, run, and understand the project. For any further questions or enhancements, please refer to the source code comments.
