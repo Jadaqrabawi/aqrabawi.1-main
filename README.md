@@ -12,7 +12,7 @@
 
 2. **Navigate to the Project Directory**
    ```bash
-   cd aqrabawi.1-main
+   cd aqrabawi.1-main-main
    ```
 
 3. **Clean the Project (Optional)**
