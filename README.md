@@ -27,7 +27,7 @@
 
 5. **Run the Project**
    ```bash
-./oss -n 20 -s 5 -t 7 -i 100 -f oss.log
+   ./oss -n 20 -s 5 -t 7 -i 100 -f oss.log
    ```
 
 # Operating System Simulation
